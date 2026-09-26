@@ -1,0 +1,41 @@
+{
+  "outputFileName": "orphaned files output",
+  "orphanedFilesSortOrder": "alphabetical",
+  "disableWorkingLinks": false,
+  "directoriesToIgnore": [],
+  "filesToIgnore": [],
+  "fileTypesToIgnore": [
+    "md"
+  ],
+  "linksToIgnore": [],
+  "tagsToIgnore": [],
+  "fileTypesToDelete": [
+    "jpg",
+    "png"
+  ],
+  "fileTypesToArchive": [
+    "jpg",
+    "png"
+  ],
+  "archiveDirectory": "Archive",
+  "ignoreFileTypes": true,
+  "ignoreDirectories": false,
+  "unresolvedLinksIgnoreDirectories": true,
+  "unresolvedLinksOutputFileName": "broken links output",
+  "unresolvedLinksDirectoriesToIgnore": [],
+  "unresolvedLinksFilesToIgnore": [],
+  "unresolvedLinksFileTypesToIgnore": [],
+  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksTagsToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [],
+  "withoutTagsFilesToIgnore": [],
+  "withoutTagsOutputFileName": "files without tags",
+  "emptyFilesOutputFileName": "empty files",
+  "emptyFilesDirectories": [],
+  "emptyFilesFilesToIgnore": [],
+  "emptyFilesIgnoreDirectories": true,
+  "emptyFoldersOutputFileName": "empty folders",
+  "emptyFoldersDirectories": [],
+  "emptyFoldersIgnoreDirectories": true,
+  "openOutputFile": true
+}

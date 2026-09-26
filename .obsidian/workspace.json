@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "7c1394b7dbf84198",
+    "type": "split",
+    "children": [
+      {
+        "id": "acf5d08ff4a6317a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c626f2c6d1793c34",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Archive/Books/attachments/Pasted image 20260912174941.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260912174941"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5387f785c1098835",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb4acf664d80e75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0309a691128cace3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "417ab491ccfe13fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b775a514c3315267",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81b1f4a5c9d9232a",
+    "type": "split",
+    "children": [
+      {
+        "id": "639c6815de224d89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5c654d6e9d838c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Classrooms.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2e4079f87997e1e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Classrooms.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0c593301350f74f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c30727b4acc2bfa9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4cedb1e0af2d52fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Archive/Books/attachments/Pasted image 20260912124125.png",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "6befa760d1b17d57",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "0309a691128cace3",
+  "lastOpenFiles": [
+    "Archive/Books/attachments/Pasted image 20260912174941.png",
+    "Archive/Books/attachments/Pasted image 20260912124125.png",
+    "Archive/Books/attachments/Pasted image 20260911200050.png",
+    "Archive/Books/attachments/Pasted image 20260911195714.png",
+    "Archive/Books/attachments/Pasted image 20260902191409.png",
+    "Realms.md",
+    "Blue Prince.md",
+    "orphaned files output.md",
+    "Archive/Books/attachments",
+    "Archive/Books",
+    "Archive/attachments",
+    "Archive",
+    "Classrooms.md",
+    "Archive/attachments/Pasted image 20260912201743.png",
+    "Books/The Curse of Black Bridge.md",
+    "Books/Red Letters.md",
+    "Books/A New Clue.md",
+    "Welcome.md",
+    "Books/Realm & Rune.md",
+    "Books/attachments/Pasted image 20260923224035.png",
+    "Books/attachments/Pasted image 20260923224029.png",
+    "Books/attachments/Pasted image 20260923224022.png",
+    "Books/attachments/Pasted image 20260923224013.png",
+    "Books/attachments",
+    "Books/The History or Orindia First Edition.md",
+    "Books/The Fixed Stars.md",
+    "Books/Swim Bird.md",
+    "Books/Randolf's Letters.md",
+    "Books/Drafting Strategy Architectural Digest Vol. 1.md",
+    "Books/A Sightseer's Guide to Reddington.md",
+    "Books",
+    "attachments",
+    "create a link.md"
+  ]
+}
